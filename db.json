@@ -9,17 +9,17 @@
         },
         {
             "id":2,
-            "titulo": "React desde cero",
+            "titulo": "Java script desde cero",
             "image":"https://miro.medium.com/max/1200/1*JIlBS4rc4-UelKpEExKkTQ.png",
             "price":40,
-            "profesor":"X"
+            "profesor":"y"
         },
         {
             "id":3,
-            "titulo": "React desde cero",
+            "titulo": "PHP desde cero",
             "image":"https://miro.medium.com/max/1200/1*JIlBS4rc4-UelKpEExKkTQ.png",
             "price":40,
-            "profesor":"X"
+            "profesor":"z"
         }
   ]
 
