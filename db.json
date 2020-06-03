@@ -5,21 +5,21 @@
             "titulo": "React desde cero",
             "image":"https://miro.medium.com/max/1200/1*JIlBS4rc4-UelKpEExKkTQ.png",
             "price":40,
-            "profesor":"Beto Quiroga"
+            "profesor":"X"
         },
         {
             "id":2,
             "titulo": "React desde cero",
             "image":"https://miro.medium.com/max/1200/1*JIlBS4rc4-UelKpEExKkTQ.png",
             "price":40,
-            "profesor":"Beto Quiroga"
+            "profesor":"X"
         },
         {
             "id":3,
             "titulo": "React desde cero",
             "image":"https://miro.medium.com/max/1200/1*JIlBS4rc4-UelKpEExKkTQ.png",
             "price":40,
-            "profesor":"Beto Quiroga"
+            "profesor":"X"
         }
   ]
 
